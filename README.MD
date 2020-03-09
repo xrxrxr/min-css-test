@@ -4,6 +4,7 @@
 http://mincss.com/
 min css sample   
 
+https://xrxrxr.github.io/min-css-test/
 
 ### Installation
 ```
